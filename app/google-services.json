@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925399275529",
+    "firebase_url": "https://temanrendy-app.firebaseio.com",
+    "project_id": "temanrendy-app",
+    "storage_bucket": "temanrendy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925399275529:android:48fd1b2021ccb824de80d8",
+        "android_client_info": {
+          "package_name": "com.temanrendy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925399275529-kcrr10vrf5g4blsaibd5lelv278v8t4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPpPxYIJ9YgnPIzaLX4FCemFv6iQRSdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925399275529-kcrr10vrf5g4blsaibd5lelv278v8t4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

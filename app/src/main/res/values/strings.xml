@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">temanrendy</string>
+    <string name="register_now">Register Now</string>
+    <string name="you_have_already_account">You have already account?</string>
+    <string name="sign_up">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="masukan_nama">Masukan nama</string>
+    <string name="masukkan_email_baru">Masukkan Email Baru</string>
+    <string name="masukan_password_baru">Masukan password baru</string>
+</resources>
