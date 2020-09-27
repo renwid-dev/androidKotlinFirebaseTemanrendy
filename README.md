@@ -1,9 +1,13 @@
 # androidKotlinFirebaseTemanrendy
 
 apply plugin: 'com.android.application'
+
 apply plugin: 'kotlin-android'
+
 apply plugin: 'kotlin-android-extensions'
+
 apply plugin: 'com.google.gms.google-services'
+
 apply plugin: 'androidx.navigation.safeargs'
 
   //Your setting dependecies
